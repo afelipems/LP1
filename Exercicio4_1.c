@@ -8,7 +8,6 @@ int main()
 
 int ehPrimo(int number)
 {
-    int currentNumber = 2;
     
     if(number <= 2){
         return 1;
