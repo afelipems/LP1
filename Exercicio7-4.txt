@@ -1,0 +1,9 @@
+1- Na primeira abordagem uma struct é instanciada a partir da criação de uma nova, feita no método preenche A.
+Na segunda, o método trata diretamente a struct que desejamos alterar, sem que haja necessidade da criação de uma nova.
+
+2- A abordagem com ponteiros, pois não é necessária a criação de uma nova struct modelo;
+
+3- Acredito que a primeira abordagem é menos eficiente que a primeira, uma vez que é necessário reservar
+dois espaços de memória, um para cada struct e, além disso, é necessário fazer com que o ponteiro
+do personagem aponte para o objeto criado pelo método. A segunda me parece mais eficiente, pois evita a criação 
+de "lixo" em memória e não é necessária uma reorganização da estrutura do objeto;
