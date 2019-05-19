@@ -1,0 +1,2 @@
+União discriminada é uma técnica utilizada para poder ter armazenado o tipo da variável usada 
+em um union. Ela serve para desviar da característica do union de armazenar apenas um atributo por vez.

@@ -1,0 +1,7 @@
+Struct é um tipo de estrutura de dados da linguagem C que é constituída de atributos.
+Ao criar uma struct, é alocado em memória um espaço suficiente para armazenar todos os dados 
+presentes na estrutura. A union, por sua vez, também é um tipo de estrutura, tendo como
+diferença a sua alocação de memória. Em uma union, o espaço reservado em memória é o suficiente 
+para alocar o maior atributo declarado e apenas isso. Uma das diferenças entre structs e 
+unions é o armazenamento. Enquanto uma struct armazena todos os seus atributos, uma union armazena 
+um por vez.
