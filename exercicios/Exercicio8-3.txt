@@ -1,0 +1,2 @@
+Ao escrever uma string é importante para definir onde ela acaba e ao ler serve como marcador
+para onde deve acabar a iteração no arquivo.
